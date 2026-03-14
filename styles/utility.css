@@ -31,6 +31,18 @@
   gap: 1rem;
 }
 
+.flex {
+  display: flex;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
+
+.grid {
+  display: grid;
+}
+
 
 /* O que será visto em Desktop */
 @media (width >= 80em) {
